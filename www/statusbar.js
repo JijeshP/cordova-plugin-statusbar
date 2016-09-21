@@ -2,6 +2,7 @@ function StatusbarTransparent () {
 	this.transparentFlag = false;
 };
 
+//added new line
 /*
 * Enable translucent statusbar
 */
